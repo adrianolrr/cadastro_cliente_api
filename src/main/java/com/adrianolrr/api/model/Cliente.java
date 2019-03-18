@@ -36,5 +36,9 @@ public class Cliente {
 			this.idade = idade;
 		}
 	private String nome;
+	private String longitude;
+	private String latitude;
+	private String cidade;
+	private String temperatura;
 	  private int idade;
 }
